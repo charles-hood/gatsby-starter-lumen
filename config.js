@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Charles Hood',
-    photo: '/cdh-bio.png',
+    photo: '/cdh%20fullbeard.jpg',
     bio: 'Systems engineer in Atlanta with a focus on storage networking.',
     contacts: {
       email: 'charles.hood@gmail.com',
