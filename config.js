@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Blog by Charles Hood',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -25,14 +25,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Charles Hood',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Systems engineer in Atlanta with a focus on storage networking.',
     contacts: {
-      email: '#',
+      email: 'charles.hood@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'charleshood',
+      github: 'charles-hood',
       rss: '#',
       vkontakte: '#'
     }
