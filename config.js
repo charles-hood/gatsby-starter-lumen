@@ -30,11 +30,11 @@ module.exports = {
     bio: 'Systems engineer in Atlanta with a focus on storage networking.',
     contacts: {
       email: 'charles.hood@gmail.com',
-      telegram: '#',
+      telegram: '',
       twitter: 'charleshood',
       github: 'charles-hood',
-      rss: '#',
-      vkontakte: '#'
+      rss: '',
+      vkontakte: ''
     }
   }
 };
