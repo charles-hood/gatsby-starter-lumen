@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.charleshood.org',
   pathPrefix: '/',
   title: 'Blog by Charles Hood',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Systems Egineer in Atlanta, Georgia focused on storage networking.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
